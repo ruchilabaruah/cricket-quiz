@@ -1,0 +1,55 @@
+{
+  "questionaire": [
+    {
+      "question": "Kapil Dev did NOT play for India during the World Cup tournament held in:",
+      "options": [1975, 1979, 1983, 1987],
+      "answer": 1975
+    },
+    {
+      "question": "India's first win in a World Cup match was against?",
+      "options": ["Sri Lanka", "West Indies", "East Africa", "England"],
+      "answer": "West Indies"
+    },
+    {
+      "question": "How many runs did India make in its historic World Cup win over West Indies in 1983?",
+      "options": [374, 175, 183, 259],
+      "answer": 183
+    },
+    {
+      "question": "In which year were the World Cup matches reduced to 50 overs from the previous 60 overs?",
+      "options": [1983, 1979, 1992, 1987],
+      "answer": 1987
+    },
+    {
+      "question": "Against which country did India score their lowest total at the World Cup?",
+      "options": ["West Indies", "New Zealand", "England", "Australia"],
+      "answer": "Australia"
+    },
+    {
+      "question": "How much did Sunil Gavaskar score for India in its very first World Cup match played against England in 1975?",
+      "options": ["36 off 174 balls", "79 off 99 balls", "36 off 36 balls", "111 off 100 balls"],
+      "answer": "36 off 174 balls"
+    },
+    {
+      "question": "Against which country did India win with the most significant margin by runs in a World Cup?",
+      "options": ["Namibia", "Australia", "Bermuda", "Srilanka"],
+      "answer": "Bermuda"
+    },
+    {
+      "question": "Which cricketer has scored the most ducks at the World Cup?",
+      "options": ["Ajit Agarkar", "Sachin Tendulkar", "Krishnamachari Srikkanth", "Javagal Srinath"],
+      "answer": "Krishnamachari Srikkanth"
+    },
+    {
+      "question": "During the 'Wills World Cup' of 1996, India was eliminated at the stage of...?",
+      "options": ["Quarter Finals", "Semi Finals", "Finals", "Group Matches"],
+      "answer": "Semi Finals"
+    },
+    {
+      "question": "Which cricketers have the record for the highest run partnership at the World Cup?",
+      "options": ["Sachin Tendulkar and Saurav Ganguly", "Saurav Ganguly and Rahul Dravid", "Saurav Ganguly and Virender Sehwag",
+      "Rahul Dravid and Sachin Tendulkar"],
+      "answer": "Saurav Ganguly and Rahul Dravid"
+    }
+  ]
+}

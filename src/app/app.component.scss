@@ -1,0 +1,43 @@
+$error-color: red;
+$position-abs: absolute;
+
+.h3-class {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.margin-top-50 {
+  margin-top: 50px;
+}
+
+.margin-bottom-50 {
+  margin-bottom: 50px;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.has-error {
+  color: $error-color;
+}
+
+.position-relative {
+  position: relative;
+}
+
+@mixin setPosition($property) {
+  position: $property;
+  transform: translateX(-50%);
+}
+
+.position-abs {
+  @include setPosition($position-abs);
+  left: 30%;
+}
+
+.position-clr {
+  @include setPosition($position-abs);
+  left: 60%;
+}
+
